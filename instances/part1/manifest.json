@@ -1,0 +1,967 @@
+{
+  "description": "Part 1 computational instances used in the CAIE revision experiments.",
+  "source_results": "results/final_milp_s.csv",
+  "count": 120,
+  "instances": [
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep0.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep1.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep2.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep3.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep4.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep5.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep6.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep7.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep8.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma3_rep9.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep0.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep1.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep2.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep3.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep4.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep5.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep6.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep7.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep8.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n50_tau0p5_R0p8_gamma5_rep9.json",
+      "n": 50,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep0.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep1.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep2.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep3.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep4.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep5.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep6.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep7.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep8.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma3_rep9.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep0.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep1.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep2.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep3.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep4.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep5.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep6.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep7.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep8.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n50_tau0p6_R0p8_gamma5_rep9.json",
+      "n": 50,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep0.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep1.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep2.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep3.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep4.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep5.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep6.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep7.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep8.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma3_rep9.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep0.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep1.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep2.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep3.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep4.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep5.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep6.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep7.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep8.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n100_tau0p5_R0p8_gamma5_rep9.json",
+      "n": 100,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep0.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep1.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep2.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep3.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep4.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep5.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep6.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep7.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep8.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma3_rep9.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep1.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep2.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep3.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep4.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep5.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep6.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep7.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep8.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep9.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n100_tau0p6_R0p8_gamma5_rep10.json",
+      "n": 100,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 10
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep0.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep1.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep2.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep3.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep4.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep5.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep6.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep7.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep8.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma3_rep9.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep0.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep1.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep2.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep3.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep4.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep5.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep6.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep7.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep8.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n200_tau0p5_R0p8_gamma5_rep9.json",
+      "n": 200,
+      "tau": 0.5,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep0.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep1.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep2.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep3.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep4.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep5.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep6.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep7.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep8.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma3_rep9.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 3.0,
+      "rep": 9
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep0.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 0
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep1.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 1
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep2.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 2
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep3.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 3
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep4.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 4
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep5.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 5
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep6.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 6
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep7.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 7
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep8.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 8
+    },
+    {
+      "file": "instances/part1/n200_tau0p6_R0p8_gamma5_rep9.json",
+      "n": 200,
+      "tau": 0.6,
+      "R": 0.8,
+      "gamma": 5.0,
+      "rep": 9
+    }
+  ]
+}

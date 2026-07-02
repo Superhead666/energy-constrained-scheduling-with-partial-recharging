@@ -1,0 +1,22 @@
+file,algorithm,n,count,avg_obj,best_count,bk_gap_pct,lb_gap_pct,certified,avg_time
+eps010_r075_e10_s25.csv,GRASP-PR heuristic,100,12,24.750,11,0.225,5.926,4,10.41
+eps010_r075_e10_s25.csv,GRASP-PR heuristic,200,12,43.333,11,0.144,2.562,6,9.18
+eps010_r075_e10_s25.csv,GRASP-PR heuristic,All,24,34.042,22,0.184,4.244,10,9.79
+eps015_r050_e10_s25.csv,GRASP-PR heuristic,100,12,24.833,10,0.622,6.283,4,10.08
+eps015_r050_e10_s25.csv,GRASP-PR heuristic,200,12,43.250,12,0.000,2.423,6,8.08
+eps015_r050_e10_s25.csv,GRASP-PR heuristic,All,24,34.042,22,0.311,4.353,10,9.08
+eps015_r075_e10_s25.csv,GRASP-PR heuristic,100,12,24.833,10,0.622,6.283,4,10.10
+eps015_r075_e10_s25.csv,GRASP-PR heuristic,200,12,43.250,12,0.000,2.423,6,9.83
+eps015_r075_e10_s25.csv,GRASP-PR heuristic,All,24,34.042,22,0.311,4.353,10,9.96
+eps015_r075_e10_s40.csv,GRASP-PR heuristic,100,12,24.833,10,0.622,6.283,4,10.13
+eps015_r075_e10_s40.csv,GRASP-PR heuristic,200,12,43.250,12,0.000,2.423,6,11.23
+eps015_r075_e10_s40.csv,GRASP-PR heuristic,All,24,34.042,22,0.311,4.353,10,10.68
+eps015_r075_e15_s25.csv,GRASP-PR heuristic,100,12,24.667,12,0.000,5.707,4,10.17
+eps015_r075_e15_s25.csv,GRASP-PR heuristic,200,12,43.333,11,0.144,2.562,6,10.34
+eps015_r075_e15_s25.csv,GRASP-PR heuristic,All,24,34.000,23,0.072,4.134,10,10.26
+eps015_r100_e10_s25.csv,GRASP-PR heuristic,100,12,24.833,10,0.622,6.283,4,10.15
+eps015_r100_e10_s25.csv,GRASP-PR heuristic,200,12,43.250,12,0.000,2.423,6,11.65
+eps015_r100_e10_s25.csv,GRASP-PR heuristic,All,24,34.042,22,0.311,4.353,10,10.90
+eps020_r075_e10_s25.csv,GRASP-PR heuristic,100,12,24.750,11,0.225,5.926,4,11.31
+eps020_r075_e10_s25.csv,GRASP-PR heuristic,200,12,43.250,12,0.000,2.423,6,10.31
+eps020_r075_e10_s25.csv,GRASP-PR heuristic,All,24,34.000,23,0.113,4.175,10,10.81

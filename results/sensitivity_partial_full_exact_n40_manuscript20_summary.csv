@@ -1,0 +1,5 @@
+gamma,rho,instances,opt_partial,opt_full,U_partial,U_full,delta_U,late_reduction_pct,recharges_partial,recharges_full,util_partial,util_full,delta_recharge_time,predicted_delta_recharge_time,delta_makespan
+3.0,0.20,20,20,20,13.35,13.85,0.50,3.61,9.40,9.45,0.772,0.758,346.94,345.10,346.94
+3.0,0.60,20,20,20,15.00,15.20,0.20,1.32,11.85,10.00,0.650,0.732,12.68,418.35,12.68
+5.0,0.20,20,20,20,11.60,13.40,1.80,13.43,7.10,6.65,0.654,0.680,548.46,576.65,548.46
+5.0,0.60,20,20,20,8.45,8.55,0.10,1.17,6.95,6.00,0.657,0.729,69.78,418.15,69.78

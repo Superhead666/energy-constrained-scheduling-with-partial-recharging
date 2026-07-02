@@ -1,0 +1,7 @@
+size_label,n,correlation_label,instances,avg_pearson,optimal_instances,avg_obj,avg_dev,max_dev,avg_recharges,avg_battery_utilization,avg_makespan,avg_time
+exact,50,positive,20,0.982,20,12.85,0.00,0.00,7.95,0.830,2199.55,2.20
+exact,50,independent,20,0.038,20,15.35,0.00,0.00,8.20,0.817,2202.05,5.84
+exact,50,negative,20,-0.983,20,20.95,0.00,0.00,8.60,0.790,2206.05,0.33
+robust,100,positive,20,0.992,20,23.75,0.00,0.00,14.95,0.879,4350.15,0.01
+robust,100,independent,20,0.006,18,28.65,0.10,1.00,14.85,0.886,4349.15,1.54
+robust,100,negative,20,-0.991,17,40.65,0.15,1.00,15.20,0.865,4352.65,2.31

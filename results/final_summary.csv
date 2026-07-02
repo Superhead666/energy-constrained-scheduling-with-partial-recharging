@@ -1,0 +1,13 @@
+file,algorithm,n,count,avg_obj,best_count,bk_gap_pct,lb_gap_pct,certified,avg_time
+final_grasp_pr.csv,GRASP-PR heuristic,100,40,22.625,37,0.269,4.109,15,9.49
+final_grasp_pr.csv,GRASP-PR heuristic,200,40,43.075,40,0.000,2.369,19,10.81
+final_grasp_pr.csv,GRASP-PR heuristic,50,40,17.500,38,0.438,7.590,20,7.53
+final_grasp_pr.csv,GRASP-PR heuristic,All,120,27.733,115,0.236,4.689,54,9.28
+final_milp_s.csv,Strengthened CPLEX MILP,100,40,22.850,29,1.654,3.789,17,430.10
+final_milp_s.csv,Strengthened CPLEX MILP,200,40,45.625,2,6.051,8.001,0,600.15
+final_milp_s.csv,Strengthened CPLEX MILP,50,40,17.450,40,0.000,0.357,39,53.11
+final_milp_s.csv,Strengthened CPLEX MILP,All,120,28.642,71,2.568,4.049,56,361.12
+final_milp_sh_light_start.csv,Strengthened CPLEX MILP heuristic-start,100,40,22.650,36,0.533,2.256,22,336.66
+final_milp_sh_light_start.csv,Strengthened CPLEX MILP heuristic-start,200,40,43.575,24,1.383,3.445,11,439.89
+final_milp_sh_light_start.csv,Strengthened CPLEX MILP heuristic-start,50,40,17.450,40,0.000,0.000,40,28.52
+final_milp_sh_light_start.csv,Strengthened CPLEX MILP heuristic-start,All,120,27.892,100,0.639,1.900,73,268.35
