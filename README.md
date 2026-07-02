@@ -1,4 +1,4 @@
-# CAIE-D-26-00985 computational package
+# Energy-constrained single-machine scheduling to minimize the number of late jobs with partial recharge and generalized due dates computational package
 
 This repository contains the code, generated instances, and computational results used in the revised manuscript titled ``Energy-constrained single-machine scheduling to minimize the number of late jobs with partial recharge and generalized due dates.''
 
