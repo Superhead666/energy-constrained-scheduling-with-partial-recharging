@@ -2,8 +2,6 @@
 
 This repository contains the code, generated instances, and computational results used in the revised manuscript titled ``Energy-constrained single-machine scheduling to minimize the number of late jobs with partial recharge and generalized due dates.''
 
-The package is organized so that the main computational comparison, the parameter tuning runs, and the sensitivity analyses can be reproduced from the same C++ implementation and run scripts. The compiled executable is not included. It can be rebuilt locally from `main.cpp`.
-
 ## Compared methods
 
 - `MILP-S`: strengthened position-indexed MILP.
