@@ -160,19 +160,11 @@ The partial/full recharge sensitivity experiment reported in the manuscript uses
 - \(\beta=1\), with \(\alpha=\rho\beta E/(1-\rho)\)
 - 20 paired replications for each \((\gamma,\rho)\) setting
 
-Both the partial-recharge and full-recharge models are solved exactly in the reported rows. The manuscript-ready results are stored in:
-
+Both the partial-recharge and full-recharge models are solved exactly in the reported rows. 
 ```bash
 results/sensitivity_partial_full_exact_n40_manuscript20_rows.csv
 results/sensitivity_partial_full_exact_n40_manuscript20_summary.csv
 instances/sensitivity_partial_full/
-```
-
-The raw run before replacing two uncertified full-recharge replications is retained in:
-
-```bash
-results/sensitivity_partial_full_exact_n40_raw.csv
-results/sensitivity_partial_full_exact_n40_summary.csv
 ```
 
 To rerun the partial/full sensitivity test:
